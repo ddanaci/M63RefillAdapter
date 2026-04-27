@@ -69,4 +69,4 @@ You can sit it on the end of the refill while you screw on the pen body from abo
 
 ## 7 - Conclusions
 Overall, I would recommend approach 5 for the simplest, quickest, and most cost effective way that works. I am currently using approach 2 because I have them.
-The main thing is, there should only be a small amount of resistance when you screw down the barrel. You can feel what it is like with the OEM M63 refill. If it is any more than that, then your adapter is too long - trim either the adapter or the Energy refill.
+The main thing is, there should only be a small amount of resistance when you screw down the barrel. You can feel what it is like with the OEM M63 refill. If it is any more than that, then your adapter is too long - trim either the adapter or the Energel refill.
