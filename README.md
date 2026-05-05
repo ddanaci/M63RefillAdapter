@@ -1,5 +1,7 @@
 # Pentel Energel to Lamy M63 refill adapters
 
+Update: I realised that the Energel refill is basically a Euro Format / Euro-style refill. Approach 5 will also work with other Euro-style refills.
+
 ## 1 - Introduction
 I had hung up some of my sweaters to air them out, and I looked at them and realised... 
 ![Figure01](Images/inspiration.jpg)
